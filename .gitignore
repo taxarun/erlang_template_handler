@@ -1,0 +1,11 @@
+# OS X junk
+#
+*.DS_Store
+
+# Build time junk
+#
+_rel
+.erlang.mk
+deps
+ebin
+*.d
